@@ -13140,11 +13140,6 @@ file = "mods/createbigcannons-fabric-1.18.2-0.5.4-nightly-13f4b5f.jar"
 hash = "624da42e718df537f0d8dced699022281c342287f47c3d698c9db91e7a2cdfb5"
 
 [[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "8e2e7c409ba40e6963bfa649ab51718c0059abed3cf4790fd9c2fcd0e6369f5b"
-metafile = true
-
-[[files]]
 file = "mods/ctm-refabricated.pw.toml"
 hash = "62ded82bb3d72667ba403525e73c587c73a757929622094bb7fec7bd521cc62d"
 metafile = true
