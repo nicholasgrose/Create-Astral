@@ -102,7 +102,7 @@ hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "92d23a8b7c72824f921f8c0d8672cd882f23ed790e981c6670b61036c128dd70"
+hash = "95b97f31139f5945413965aae00536b8582592ff533083d3f4763d9a0dbc36e3"
 
 [[files]]
 file = "config/collective-fabric.json5"
@@ -13082,7 +13082,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "c9f956d4c25ed8cfccf474120b0490906d4f18aa5db88d8bdfa2f97c2d96297c"
+hash = "b0666c0d2d6d3c1e37cc370291655050112c70ac8fe5e364e5e2bfb90aad4e56"
 metafile = true
 
 [[files]]
@@ -13488,7 +13488,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6fd6b5344fbdf97b2469d85385318feb537cb77c6faa574851e011c4aecf41fe"
+hash = "0946d0ac3908e7b6879ab0f66f6887e32c18c3324c3be110c38cf8f5c9fbe544"
 metafile = true
 
 [[files]]
