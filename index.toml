@@ -12913,6 +12913,10 @@ file = "kubejs/startup_scripts/startup.js"
 hash = "c0442583b14994eaf97fb423480bab4a45433d98d2a5186a732cbe95a0ac153e"
 
 [[files]]
+file = "mods/RoughlyEnoughItems-8.4.9999-fabric.jar"
+hash = "4eb1f1473f2a3df494538d28ca94035a91af2042e4fa2b6fe0e0edb6951b2f9a"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "27e4e6741ce59a7224fb5ecb5b3772de3ac374d6082309ecc27c83e58f8985eb"
 metafile = true
@@ -13623,11 +13627,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6740d0d510f08d76278778a4bedcf4c356ddef3b2bff1232245088f7d9e5289e"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "00fbda5f4b751ba675f2c5f37639ccd8cb01575435d57b397c480932e98b469e"
 metafile = true
 
 [[files]]
