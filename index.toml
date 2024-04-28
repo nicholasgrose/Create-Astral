@@ -13263,9 +13263,8 @@ hash = "0b30688d73782a2a2825e7fd7d64ad8c2cfd4b0db774fc2f9e51204bc7d68b47"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "3e30af5688f6ad714252b4eb8ca621169ad5bdc7f9ad5b4e4e52f5d679052fd0"
-metafile = true
+file = "mods/farmers-delight-fabric-1.2.6-SNAPSHOT.jar"
+hash = "73297c76b776eb8f1fe8db029800ab6dd370e55968e780f95f7912875db27421"
 
 [[files]]
 file = "mods/fast-furnace-for-fabric.pw.toml"
