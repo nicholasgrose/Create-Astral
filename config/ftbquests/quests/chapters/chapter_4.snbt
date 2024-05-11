@@ -2201,25 +2201,11 @@
 			dependencies: ["5355CA2F0BA74BF1"]
 		}
 		{
-			tasks: [
-				title: "Any Scorched Tank"
-				item: {
-					id: "itemfilters:or"
-					Count: 1b
-					tag: {
-						items: [
-							{
-								id: "tconstruct:scorched_fuel_tank"
-								Count: 1b
-							}
-							{
-								id: "tconstruct:scorched_fuel_gauge"
-								Count: 1b
-							}
-						]
-					}
-				}
-			]
+			tasks: [{
+				id: "16E1DEF611435838"
+				type: "item"
+				item: "tconstruct:scorched_tank"
+			}]
 			description: ["{chapter.5.quest.85.description.1}"]
 			min_required_dependencies: 1
 			id: "0BCFF062FD1518BF"
